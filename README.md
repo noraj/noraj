@@ -1,4 +1,6 @@
-[![My github stats](https://github-readme-stats.vercel.app/api?username=noraj&show_icons=true&theme=darcula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=noraj&show_icons=true&theme=react&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=noraj&show_icons=true&theme=react&include_all_commits=false&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **noraj/noraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
