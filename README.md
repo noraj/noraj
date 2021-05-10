@@ -1,6 +1,10 @@
-[![My github stats](https://github-readme-stats.vercel.app/api?username=noraj&show_icons=true&theme=react&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=noraj&show_icons=true&theme=nord&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=noraj&show_icons=true&theme=react&include_all_commits=false&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=noraj&show_icons=true&theme=nord&include_all_commits=false&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=noraj&row=1&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noraj&theme=nord)](https://git.io/streak-stats) 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N837PBF)
 <!--
