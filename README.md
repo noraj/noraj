@@ -10,6 +10,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N837PBF)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/noraj?label=github%20sponsors)](https://github.com/sponsors/noraj)
+[![LibrePay Patrons](https://img.shields.io/liberapay/patrons/noraj.svg?logo=liberapay)](https://liberapay.com/noraj/)
 
 [ghr]:https://github.com/anuraghazra/github-readme-stats
 [gpt]:https://github.com/ryo-ma/github-profile-trophy
