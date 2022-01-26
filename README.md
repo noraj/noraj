@@ -8,6 +8,8 @@
 
 [![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noraj&layout=compact&langs_count=10&hide=javascript,html,css,php,tsql,hack&theme=nord)][ghr]
 
+## Sponsors
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N837PBF)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/noraj?label=github%20sponsors)](https://github.com/sponsors/noraj)
 [![LibrePay Patrons](https://img.shields.io/liberapay/patrons/noraj.svg?logo=liberapay)](https://liberapay.com/noraj/)
@@ -15,3 +17,9 @@
 [ghr]:https://github.com/anuraghazra/github-readme-stats
 [gpt]:https://github.com/ryo-ma/github-profile-trophy
 [gss]:https://git.io/streak-stats
+
+|Name|Logo|
+|---|---|
+|[Reconmap][reconmap]|[![reconmap](https://avatars.githubusercontent.com/u/69360155?s=100&v=4)][reconmap]|
+
+[reconmap]:https://github.com/reconmap
