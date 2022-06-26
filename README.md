@@ -18,8 +18,12 @@
 [gpt]:https://github.com/ryo-ma/github-profile-trophy
 [gss]:https://git.io/streak-stats
 
+<details>
+  <summary>Past sponsors</summary>
+
 |Name|Logo|
 |---|---|
 |[Reconmap][reconmap]|[![reconmap](https://avatars.githubusercontent.com/u/69360155?s=100&v=4)][reconmap]|
 
 [reconmap]:https://github.com/reconmap
+</details>
