@@ -18,6 +18,12 @@
 [gpt]:https://github.com/ryo-ma/github-profile-trophy
 [gss]:https://git.io/streak-stats
 
+|Name|Logo|
+|---|---|
+|[mxrch][mxrch]|[![mxrch](https://avatars.githubusercontent.com/u/17338428?s=100&v=4)][mxrch]|
+
+[mxrch]:https://github.com/mxrch
+
 <details>
   <summary>Past sponsors</summary>
 
