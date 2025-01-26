@@ -4,7 +4,7 @@
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=noraj&row=1&theme=nord)][gpt]
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=noraj&theme=nord)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=noraj&theme=nord)][gss]
 
 [![Github langs](https://github-readme-stats-noraj.vercel.app/api/top-langs/?username=noraj&layout=compact&langs_count=10&hide=javascript,html,css,php,tsql,hack&theme=nord)][ghr]
 
