@@ -4,7 +4,7 @@
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=noraj&row=1&theme=nord)][gpt]
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noraj&theme=nord)][gss]
+[![GitHub Streak](https://streak-stats.demolab.com?user=noraj&theme=nord)](https://git.io/streak-stats)
 
 [![Github langs](https://github-readme-stats-noraj.vercel.app/api/top-langs/?username=noraj&layout=compact&langs_count=10&hide=javascript,html,css,php,tsql,hack&theme=nord)][ghr]
 
@@ -16,7 +16,7 @@
 
 [ghr]:https://github.com/anuraghazra/github-readme-stats
 [gpt]:https://github.com/ryo-ma/github-profile-trophy
-[gss]:https://git.io/streak-stats
+[gss]:https://github.com/denvercoder1/github-readme-streak-stats
 
 |Name|Logo|
 |---|---|
